@@ -1,0 +1,8 @@
+{
+  "name": "tlbb-nft-project",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npm run dev",
+    "deploy": "node scripts/deploy.ts"
+  }
+}

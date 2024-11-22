@@ -1,0 +1,1 @@
+console.log("Update metadata script placeholder");

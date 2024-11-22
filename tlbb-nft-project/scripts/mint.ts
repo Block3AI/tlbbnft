@@ -1,0 +1,1 @@
+console.log("Mint script placeholder");
